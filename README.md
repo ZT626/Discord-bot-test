@@ -1,2 +1,2 @@
-<h3 align="left">Auction Bot</h3>
-A fully working auction bot made via python.
+<h3 align="left">Discord Bot</h3>
+Working discord bot test
